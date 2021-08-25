@@ -54,6 +54,7 @@ h3 span {
 	background-color: var(--very-dark-blue);
 	border-radius: 50px;
 	color: #fff;
+	font-weight: 700;
 	letter-spacing: 2px;
 	padding: 5px 10px;
 	margin-right: 10px;
@@ -103,7 +104,7 @@ p {
 .flex {
 	display: flex;
 	align-items: center;
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
 nav {
